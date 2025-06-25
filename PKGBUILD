@@ -3,8 +3,8 @@ pkgver=0.10.7
 pkgrel=1
 pkgdesc="utiLITI – The LITIENGINE Game Editor"
 arch=('x86_64')
-url="https://gurkenlabs.itch.io/litiengine"
-license=('custom')
+url="https://github.com/iamllcoolray/utiliti-aur-package"
+license=('MIT')
 depends=('java-runtime')
 options=(!strip)
 # Tell makepkg to copy your local zip instead of downloading
